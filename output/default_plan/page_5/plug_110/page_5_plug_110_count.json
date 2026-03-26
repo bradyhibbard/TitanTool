@@ -1,0 +1,686 @@
+{
+  "page_index": 4,
+  "page_number": 5,
+  "symbol_name": "Plug 110",
+  "symbol_slug": "plug_110",
+  "legend_bbox_px_on_page": [
+    4244,
+    0,
+    4940,
+    432
+  ],
+  "plan_bbox_px_on_page": [
+    1204,
+    678,
+    3611,
+    3137
+  ],
+  "manual_symbol_bbox_within_legend": [
+    381,
+    326,
+    399,
+    351
+  ],
+  "match_count_inside_plan_outside_legend": 4,
+  "proposal_count": 217,
+  "template_size": {
+    "width": 37,
+    "height": 37
+  },
+  "review_summary": {
+    "auto_accepted_count": 0,
+    "auto_rejected_count": 0,
+    "uncertain_count": 5,
+    "user_accepted_count": 4,
+    "user_rejected_count": 1,
+    "review_stopped_early": false
+  },
+  "detected_symbol_images": [
+    "output\\default_plan\\page_5\\plug_110\\detected_symbols\\plug_110_1.png",
+    "output\\default_plan\\page_5\\plug_110\\detected_symbols\\plug_110_2.png",
+    "output\\default_plan\\page_5\\plug_110\\detected_symbols\\plug_110_3.png",
+    "output\\default_plan\\page_5\\plug_110\\detected_symbols\\plug_110_4.png"
+  ],
+  "matches": [
+    {
+      "bbox": [
+        1267,
+        992,
+        1304,
+        1022
+      ],
+      "combined_score": 0.6598015994284514,
+      "binary_score": 0.7520959377288818,
+      "edge_score": 0.4903663992881775,
+      "iou_score": 0.6512605042016807,
+      "density_score": 0.8306306306306306,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1981981981981982,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.4903663396835327,
+      "template_rotation": 90,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        2006,
+        793,
+        2036,
+        830
+      ],
+      "combined_score": 0.6583624837824142,
+      "binary_score": 0.756064772605896,
+      "edge_score": 0.47786882519721985,
+      "iou_score": 0.6554621848739496,
+      "density_score": 0.827027027027027,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1990990990990991,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.4778687059879303,
+      "template_rotation": 180,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        1267,
+        1681,
+        1304,
+        1711
+      ],
+      "combined_score": 0.6536149925444488,
+      "binary_score": 0.7520959377288818,
+      "edge_score": 0.4682713747024536,
+      "iou_score": 0.6512605042016807,
+      "density_score": 0.8306306306306306,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1981981981981982,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.46827125549316406,
+      "template_rotation": 90,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        1392,
+        1453,
+        1419,
+        1486
+      ],
+      "combined_score": 0.509780660588462,
+      "binary_score": 0.6202939748764038,
+      "edge_score": 0.3662050664424896,
+      "iou_score": 0.4594594594594595,
+      "density_score": 0.49549549549549543,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.281981981981982,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3581765592098236,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    }
+  ],
+  "top_scored_candidates_preview": [
+    {
+      "bbox": [
+        1267,
+        992,
+        1304,
+        1022
+      ],
+      "combined_score": 0.6598015994284514,
+      "binary_score": 0.7520959377288818,
+      "edge_score": 0.4903663992881775,
+      "iou_score": 0.6512605042016807,
+      "density_score": 0.8306306306306306,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1981981981981982,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.4903663396835327,
+      "template_rotation": 90,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        2006,
+        793,
+        2036,
+        830
+      ],
+      "combined_score": 0.6583624837824142,
+      "binary_score": 0.756064772605896,
+      "edge_score": 0.47786882519721985,
+      "iou_score": 0.6554621848739496,
+      "density_score": 0.827027027027027,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1990990990990991,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.4778687059879303,
+      "template_rotation": 180,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        1267,
+        1681,
+        1304,
+        1711
+      ],
+      "combined_score": 0.6536149925444488,
+      "binary_score": 0.7520959377288818,
+      "edge_score": 0.4682713747024536,
+      "iou_score": 0.6512605042016807,
+      "density_score": 0.8306306306306306,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1981981981981982,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.46827125549316406,
+      "template_rotation": 90,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        1795,
+        1661,
+        1828,
+        1688
+      ],
+      "combined_score": 0.5732310678904564,
+      "binary_score": 0.6660313606262207,
+      "edge_score": 0.3516429662704468,
+      "iou_score": 0.4963235294117647,
+      "density_score": 0.7801801801801801,
+      "contour_score": 1.0,
+      "candidate_density": 0.21081081081081082,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 2,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.36161360144615173,
+      "template_rotation": 270,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1792,
+        1655,
+        1836,
+        1691
+      ],
+      "combined_score": 0.5174414436873751,
+      "binary_score": 0.5095457434654236,
+      "edge_score": 0.4021202623844147,
+      "iou_score": 0.36186770428015563,
+      "density_score": 0.9855855855855855,
+      "contour_score": 1.0,
+      "candidate_density": 0.15945945945945947,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 2,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.2,
+      "proposal_score": 0.38705191016197205,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1392,
+        1453,
+        1419,
+        1486
+      ],
+      "combined_score": 0.509780660588462,
+      "binary_score": 0.6202939748764038,
+      "edge_score": 0.3662050664424896,
+      "iou_score": 0.4594594594594595,
+      "density_score": 0.49549549549549543,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.281981981981982,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3581765592098236,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "accepted"
+    },
+    {
+      "bbox": [
+        2081,
+        1333,
+        2108,
+        1366
+      ],
+      "combined_score": 0.49631703100679436,
+      "binary_score": 0.5836677551269531,
+      "edge_score": 0.37911128997802734,
+      "iou_score": 0.44510385756676557,
+      "density_score": 0.49189189189189186,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.2828828828828829,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.37593191862106323,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2899,
+        1543,
+        2926,
+        1576
+      ],
+      "combined_score": 0.4933683208586139,
+      "binary_score": 0.5991613864898682,
+      "edge_score": 0.3506070077419281,
+      "iou_score": 0.4408284023668639,
+      "density_score": 0.49189189189189186,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.2828828828828829,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3423587381839752,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1781,
+        1361,
+        1814,
+        1388
+      ],
+      "combined_score": 0.4769713490766132,
+      "binary_score": 0.5843027234077454,
+      "edge_score": 0.30112579464912415,
+      "iou_score": 0.47941176470588237,
+      "density_score": 0.43423423423423413,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.2972972972972973,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.335891991853714,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1388,
+        1451,
+        1421,
+        1492
+      ],
+      "combined_score": 0.4712277127647001,
+      "binary_score": 0.4605642557144165,
+      "edge_score": 0.41658538579940796,
+      "iou_score": 0.39730639730639733,
+      "density_score": 0.7513513513513513,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.218018018018018,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.36625656485557556,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2077,
+        1331,
+        2110,
+        1372
+      ],
+      "combined_score": 0.46912192682164977,
+      "binary_score": 0.45852720737457275,
+      "edge_score": 0.4220151901245117,
+      "iou_score": 0.37583892617449666,
+      "density_score": 0.7693693693693693,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.21351351351351353,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.38105136156082153,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1392,
+        1451,
+        1419,
+        1484
+      ],
+      "combined_score": 0.4688410705195302,
+      "binary_score": 0.5826079845428467,
+      "edge_score": 0.35104161500930786,
+      "iou_score": 0.3951612903225806,
+      "density_score": 0.3765765765765766,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.3117117117117117,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3816205859184265,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2896,
+        1541,
+        2929,
+        1582
+      ],
+      "combined_score": 0.46818543264297036,
+      "binary_score": 0.4707880914211273,
+      "edge_score": 0.39792880415916443,
+      "iou_score": 0.3859060402684564,
+      "density_score": 0.7585585585585585,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.21621621621621623,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.3593645691871643,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2880,
+        792,
+        2907,
+        825
+      ],
+      "combined_score": 0.4618319543563128,
+      "binary_score": 0.5839011073112488,
+      "edge_score": 0.33849769830703735,
+      "iou_score": 0.3910761154855643,
+      "density_score": 0.33693693693693694,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.3216216216216216,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.35711216926574707,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1780,
+        1481,
+        1813,
+        1508
+      ],
+      "combined_score": 0.46100768358213406,
+      "binary_score": 0.5840482711791992,
+      "edge_score": 0.3414558172225952,
+      "iou_score": 0.3854166666666667,
+      "density_score": 0.3297297297297296,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.32342342342342345,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3641708493232727,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1781,
+        1479,
+        1822,
+        1512
+      ],
+      "combined_score": 0.4583258352339028,
+      "binary_score": 0.479581743478775,
+      "edge_score": 0.3681289851665497,
+      "iou_score": 0.3745928338762215,
+      "density_score": 0.726126126126126,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.22432432432432434,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.35054221749305725,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1266,
+        996,
+        1299,
+        1023
+      ],
+      "combined_score": 0.4550291074140765,
+      "binary_score": 0.5640561580657959,
+      "edge_score": 0.34362003207206726,
+      "iou_score": 0.37894736842105264,
+      "density_score": 0.35855855855855856,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.3162162162162162,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3624427318572998,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1510,
+        792,
+        1537,
+        825
+      ],
+      "combined_score": 0.454846151351668,
+      "binary_score": 0.5566105842590332,
+      "edge_score": 0.3496174216270447,
+      "iou_score": 0.38522427440633245,
+      "density_score": 0.354954954954955,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.3171171171171171,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.37262898683547974,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1780,
+        1361,
+        1813,
+        1388
+      ],
+      "combined_score": 0.45428434423435626,
+      "binary_score": 0.5628389716148376,
+      "edge_score": 0.34181660413742065,
+      "iou_score": 0.3858267716535433,
+      "density_score": 0.34414414414414407,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.31981981981981983,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.36576375365257263,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        2081,
+        1331,
+        2108,
+        1364
+      ],
+      "combined_score": 0.4537630681819744,
+      "binary_score": 0.5564312934875488,
+      "edge_score": 0.33981430530548096,
+      "iou_score": 0.38666666666666666,
+      "density_score": 0.3729729729729728,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.31261261261261264,
+      "template_density": 0.15585585585585585,
+      "candidate_contours": 1,
+      "template_contours": 2,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.9,
+      "proposal_score": 0.3683246672153473,
+      "template_rotation": 0
+    }
+  ],
+  "parameters": {
+    "render_zoom": 2.0,
+    "manual_template_border_px": 6,
+    "proposal_scales": [
+      0.85,
+      0.95,
+      1.0,
+      1.05,
+      1.15
+    ],
+    "final_scales": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "edge_proposal_threshold": 0.32,
+    "max_edge_proposals_per_scale": 60,
+    "final_accept_score": 0.5,
+    "final_min_binary_score": 0.2,
+    "final_min_edge_score": 0.1,
+    "final_min_iou_score": 0.12,
+    "min_center_distance_factor": 0.45,
+    "nms_overlap_thresh": 0.2,
+    "enable_user_review": true,
+    "auto_accept_score": 0.72,
+    "auto_reject_score": 0.38,
+    "review_iou_floor": 0.08,
+    "max_uncertain_to_review": 20
+  },
+  "files": {
+    "page_image": "output\\default_plan\\page_5\\page_5.png",
+    "legend_crop": "output\\default_plan\\page_5\\electrical_legend_crop.png",
+    "symbol_crop": "output\\default_plan\\symbol_library\\plug_110\\template.png",
+    "search_region_image": "output\\default_plan\\page_5\\page_5_search_region.png",
+    "debug_matches": "output\\default_plan\\page_5\\plug_110\\page_5_plug_110_matches.png",
+    "preprocessed_template_binary": "output\\default_plan\\page_5\\plug_110\\debug_template_binary.png",
+    "preprocessed_template_edges": "output\\default_plan\\page_5\\plug_110\\debug_template_edges.png",
+    "preprocessed_search_binary": "output\\default_plan\\page_5\\debug_search_binary.png",
+    "preprocessed_search_edges": "output\\default_plan\\page_5\\debug_search_edges.png",
+    "grouped_mask": "output\\default_plan\\page_5\\debug_grouped_mask.png",
+    "candidate_proposals_overlay": "output\\default_plan\\page_5\\debug_candidate_proposals.png",
+    "candidate_debug_dir": "output\\default_plan\\page_5\\plug_110\\candidate_debug",
+    "detected_symbol_dir": "output\\default_plan\\page_5\\plug_110\\detected_symbols",
+    "page_symbol_dir": "output\\default_plan\\page_5\\plug_110"
+  },
+  "symbol_template": {
+    "name": "Plug 110",
+    "slug": "plug_110",
+    "template_path": "output\\default_plan\\symbol_library\\plug_110\\template.png",
+    "legend_row_path": "output\\default_plan\\symbol_library\\plug_110\\legend_row.png",
+    "label_crop_path": "output\\default_plan\\symbol_library\\plug_110\\label_crop.png",
+    "source_page_index": 4,
+    "source_legend_bbox_on_page": [
+      4265,
+      0,
+      4971,
+      439
+    ],
+    "manual_symbol_bbox_within_legend": [
+      381,
+      326,
+      399,
+      351
+    ],
+    "label_text": null,
+    "description": null,
+    "enabled": true,
+    "metadata": {
+      "detection_overrides": {
+        "template_rotations": [
+          0,
+          90,
+          180,
+          270
+        ],
+        "edge_proposal_threshold": 0.24,
+        "max_edge_proposals_per_scale": 120,
+        "proposal_scales": [
+          0.8,
+          0.9,
+          1.0,
+          1.1,
+          1.2
+        ],
+        "final_scales": [
+          0.85,
+          1.0,
+          1.15
+        ]
+      }
+    }
+  }
+}

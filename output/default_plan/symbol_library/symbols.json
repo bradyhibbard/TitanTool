@@ -1,0 +1,242 @@
+{
+  "plan_name": "default_plan",
+  "symbols": [
+    {
+      "name": "Bath Fan",
+      "slug": "bath_fan",
+      "template_path": "output\\default_plan\\symbol_library\\bath_fan\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\bath_fan\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\bath_fan\\label_crop.png",
+      "source_page_index": null,
+      "source_legend_bbox_on_page": null,
+      "manual_symbol_bbox_within_legend": null,
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "name": "Light Flush Mount",
+      "slug": "light_flush_mount",
+      "template_path": "output\\default_plan\\symbol_library\\light_flush_mount\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\light_flush_mount\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\light_flush_mount\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        378,
+        218,
+        403,
+        243
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "name": "Light Recessed",
+      "slug": "light_recessed",
+      "template_path": "output\\default_plan\\symbol_library\\light_recessed\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\light_recessed\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\light_recessed\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        376,
+        245,
+        406,
+        271
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "name": "Light Strip",
+      "slug": "light_strip",
+      "template_path": "output\\default_plan\\symbol_library\\light_strip\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\light_strip\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\light_strip\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        361,
+        274,
+        417,
+        296
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "name": "Light Wall Mount",
+      "slug": "light_wall_mount",
+      "template_path": "output\\default_plan\\symbol_library\\light_wall_mount\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\light_wall_mount\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\light_wall_mount\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        379,
+        300,
+        406,
+        324
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {
+        "detection_overrides": {
+          "template_rotations": [
+            0
+          ],
+          "edge_proposal_threshold": 0.34,
+          "max_edge_proposals_per_scale": 50
+        }
+      }
+    },
+    {
+      "name": "Plug 110",
+      "slug": "plug_110",
+      "template_path": "output\\default_plan\\symbol_library\\plug_110\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\plug_110\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\plug_110\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        381,
+        326,
+        399,
+        351
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {
+        "detection_overrides": {
+          "template_rotations": [
+            0,
+            90,
+            180,
+            270
+          ],
+          "edge_proposal_threshold": 0.24,
+          "max_edge_proposals_per_scale": 120,
+          "proposal_scales": [
+            0.8,
+            0.9,
+            1.0,
+            1.1,
+            1.2
+          ],
+          "final_scales": [
+            0.85,
+            1.0,
+            1.15
+          ]
+        }
+      }
+    },
+    {
+      "name": "Plug 220",
+      "slug": "plug_220",
+      "template_path": "output\\default_plan\\symbol_library\\plug_220\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\plug_220\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\plug_220\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        382,
+        355,
+        403,
+        379
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "name": "Switch",
+      "slug": "switch",
+      "template_path": "output\\default_plan\\symbol_library\\switch\\template.png",
+      "legend_row_path": "output\\default_plan\\symbol_library\\switch\\legend_row.png",
+      "label_crop_path": "output\\default_plan\\symbol_library\\switch\\label_crop.png",
+      "source_page_index": 4,
+      "source_legend_bbox_on_page": [
+        4265,
+        0,
+        4971,
+        439
+      ],
+      "manual_symbol_bbox_within_legend": [
+        382,
+        380,
+        404,
+        405
+      ],
+      "label_text": null,
+      "description": null,
+      "enabled": true,
+      "metadata": {
+        "detection_overrides": {
+          "template_rotations": [
+            0,
+            90,
+            180,
+            270
+          ],
+          "edge_proposal_threshold": 0.22,
+          "max_edge_proposals_per_scale": 140,
+          "proposal_scales": [
+            0.8,
+            0.9,
+            1.0,
+            1.1,
+            1.2
+          ],
+          "final_scales": [
+            0.85,
+            1.0,
+            1.15
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {}
+}

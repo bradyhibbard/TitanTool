@@ -1,0 +1,551 @@
+{
+  "page_index": 4,
+  "page_number": 5,
+  "symbol_name": "Light Strip",
+  "symbol_slug": "light_strip",
+  "legend_bbox_px_on_page": [
+    4244,
+    0,
+    4940,
+    432
+  ],
+  "plan_bbox_px_on_page": [
+    1204,
+    678,
+    3611,
+    3137
+  ],
+  "manual_symbol_bbox_within_legend": [
+    361,
+    274,
+    417,
+    296
+  ],
+  "match_count_inside_plan_outside_legend": 0,
+  "proposal_count": 22,
+  "template_size": {
+    "width": 68,
+    "height": 34
+  },
+  "review_summary": {
+    "auto_accepted_count": 0,
+    "auto_rejected_count": 0,
+    "uncertain_count": 0,
+    "user_accepted_count": 0,
+    "user_rejected_count": 0,
+    "review_stopped_early": false
+  },
+  "detected_symbol_images": [],
+  "matches": [],
+  "top_scored_candidates_preview": [
+    {
+      "bbox": [
+        1871,
+        900,
+        1942,
+        936
+      ],
+      "combined_score": 0.45172870657259234,
+      "binary_score": 0.4224521219730377,
+      "edge_score": 0.3728591203689575,
+      "iou_score": 0.30180180180180183,
+      "density_score": 0.8304498269896194,
+      "contour_score": 1.0,
+      "candidate_density": 0.10380622837370242,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.38900837302207947,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2699,
+        902,
+        2764,
+        934
+      ],
+      "combined_score": 0.4492382053711999,
+      "binary_score": 0.4077945053577423,
+      "edge_score": 0.32586169242858887,
+      "iou_score": 0.3151750972762646,
+      "density_score": 1.0,
+      "contour_score": 1.0,
+      "candidate_density": 0.14619377162629757,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.32445400953292847,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2699,
+        1191,
+        2764,
+        1223
+      ],
+      "combined_score": 0.44780006030269626,
+      "binary_score": 0.40228456258773804,
+      "edge_score": 0.3291744887828827,
+      "iou_score": 0.31589147286821706,
+      "density_score": 0.9948096885813148,
+      "contour_score": 1.0,
+      "candidate_density": 0.14749134948096887,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.34137386083602905,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2424,
+        1191,
+        2489,
+        1223
+      ],
+      "combined_score": 0.4461984813611743,
+      "binary_score": 0.40248051285743713,
+      "edge_score": 0.32504844665527344,
+      "iou_score": 0.31467181467181465,
+      "density_score": 0.9913494809688581,
+      "contour_score": 1.0,
+      "candidate_density": 0.14835640138408304,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.323684424161911,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2149,
+        1191,
+        2214,
+        1223
+      ],
+      "combined_score": 0.4442777033080047,
+      "binary_score": 0.390201598405838,
+      "edge_score": 0.33417946100234985,
+      "iou_score": 0.3163064833005894,
+      "density_score": 0.9896193771626298,
+      "contour_score": 1.0,
+      "candidate_density": 0.14359861591695502,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.3327866494655609,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2696,
+        900,
+        2767,
+        936
+      ],
+      "combined_score": 0.4348008670354216,
+      "binary_score": 0.40621423721313477,
+      "edge_score": 0.36416682600975037,
+      "iou_score": 0.3117408906882591,
+      "density_score": 0.9515570934256056,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.13408304498269896,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.339947909116745,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2421,
+        900,
+        2492,
+        936
+      ],
+      "combined_score": 0.43469201152065234,
+      "binary_score": 0.401753693819046,
+      "edge_score": 0.3718174695968628,
+      "iou_score": 0.3103448275862069,
+      "density_score": 0.9480968858131488,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.13321799307958476,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3677339553833008,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1873,
+        901,
+        1941,
+        935
+      ],
+      "combined_score": 0.43230700120326593,
+      "binary_score": 0.4134562313556671,
+      "edge_score": 0.36153942346572876,
+      "iou_score": 0.28607594936708863,
+      "density_score": 0.7093425605536332,
+      "contour_score": 1.0,
+      "candidate_density": 0.07352941176470588,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.36153939366340637,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2974,
+        902,
+        3039,
+        934
+      ],
+      "combined_score": 0.43154697118661484,
+      "binary_score": 0.3899928033351898,
+      "edge_score": 0.3193744719028473,
+      "iou_score": 0.30353430353430355,
+      "density_score": 0.9152249134948097,
+      "contour_score": 1.0,
+      "candidate_density": 0.125,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.3438994884490967,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2146,
+        900,
+        2217,
+        936
+      ],
+      "combined_score": 0.4305857786259783,
+      "binary_score": 0.398686021566391,
+      "edge_score": 0.36117345094680786,
+      "iou_score": 0.3084677419354839,
+      "density_score": 0.953287197231834,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.13451557093425606,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3633350729942322,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1529,
+        1356,
+        1600,
+        1392
+      ],
+      "combined_score": 0.4301336134123012,
+      "binary_score": 0.4257858693599701,
+      "edge_score": 0.3479709327220917,
+      "iou_score": 0.31403118040089084,
+      "density_score": 0.8512110726643599,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.10899653979238755,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.339945912361145,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2150,
+        1191,
+        2215,
+        1223
+      ],
+      "combined_score": 0.42583654903623064,
+      "binary_score": 0.3811888098716736,
+      "edge_score": 0.2860589325428009,
+      "iou_score": 0.30859375,
+      "density_score": 0.9896193771626298,
+      "contour_score": 1.0,
+      "candidate_density": 0.14359861591695502,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.32007279992103577,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2146,
+        1189,
+        2217,
+        1225
+      ],
+      "combined_score": 0.4240629918525361,
+      "binary_score": 0.40347573161125183,
+      "edge_score": 0.33346280455589294,
+      "iou_score": 0.30831643002028397,
+      "density_score": 0.9463667820069205,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1327854671280277,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3497031033039093,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2696,
+        1189,
+        2767,
+        1225
+      ],
+      "combined_score": 0.42277924193551664,
+      "binary_score": 0.40175217390060425,
+      "edge_score": 0.3310122787952423,
+      "iou_score": 0.3058350100603622,
+      "density_score": 0.953287197231834,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.13451557093425606,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3333451747894287,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2146,
+        1188,
+        2217,
+        1224
+      ],
+      "combined_score": 0.42201512056933604,
+      "binary_score": 0.39871230721473694,
+      "edge_score": 0.3304772973060608,
+      "iou_score": 0.30784708249496984,
+      "density_score": 0.9550173010380624,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.13494809688581316,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.323432058095932,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2421,
+        1189,
+        2492,
+        1225
+      ],
+      "combined_score": 0.4218067609251577,
+      "binary_score": 0.40195199847221375,
+      "edge_score": 0.32709571719169617,
+      "iou_score": 0.304,
+      "density_score": 0.9584775086505191,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.13581314878892733,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3411942720413208,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1875,
+        902,
+        1940,
+        934
+      ],
+      "combined_score": 0.42124176851862016,
+      "binary_score": 0.3932713568210602,
+      "edge_score": 0.29488587379455566,
+      "iou_score": 0.2980561555075594,
+      "density_score": 0.870242214532872,
+      "contour_score": 1.0,
+      "candidate_density": 0.11375432525951557,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.33601149916648865,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2148,
+        901,
+        2216,
+        935
+      ],
+      "combined_score": 0.4194624997948596,
+      "binary_score": 0.3916463851928711,
+      "edge_score": 0.32091277837753296,
+      "iou_score": 0.2897196261682243,
+      "density_score": 0.7854671280276817,
+      "contour_score": 1.0,
+      "candidate_density": 0.092560553633218,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.32368203997612,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1871,
+        1189,
+        1942,
+        1225
+      ],
+      "combined_score": 0.4184204425380173,
+      "binary_score": 0.4059341847896576,
+      "edge_score": 0.320421427488327,
+      "iou_score": 0.3075313807531381,
+      "density_score": 0.911764705882353,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.12413494809688581,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 2,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3547685742378235,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2974,
+        1191,
+        3039,
+        1223
+      ],
+      "combined_score": 0.41567398122488736,
+      "binary_score": 0.3576330840587616,
+      "edge_score": 0.3050422668457031,
+      "iou_score": 0.2891089108910891,
+      "density_score": 0.9567474048442907,
+      "contour_score": 1.0,
+      "candidate_density": 0.13538062283737023,
+      "template_density": 0.14619377162629757,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.3230219781398773,
+      "template_rotation": 0
+    }
+  ],
+  "parameters": {
+    "render_zoom": 2.0,
+    "manual_template_border_px": 6,
+    "proposal_scales": [
+      0.85,
+      0.95,
+      1.0,
+      1.05,
+      1.15
+    ],
+    "final_scales": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "edge_proposal_threshold": 0.32,
+    "max_edge_proposals_per_scale": 60,
+    "final_accept_score": 0.5,
+    "final_min_binary_score": 0.2,
+    "final_min_edge_score": 0.1,
+    "final_min_iou_score": 0.12,
+    "min_center_distance_factor": 0.45,
+    "nms_overlap_thresh": 0.2,
+    "enable_user_review": true,
+    "auto_accept_score": 0.72,
+    "auto_reject_score": 0.38,
+    "review_iou_floor": 0.08,
+    "max_uncertain_to_review": 20
+  },
+  "files": {
+    "page_image": "output\\default_plan\\page_5\\page_5.png",
+    "legend_crop": "output\\default_plan\\page_5\\electrical_legend_crop.png",
+    "symbol_crop": "output\\default_plan\\symbol_library\\light_strip\\template.png",
+    "search_region_image": "output\\default_plan\\page_5\\page_5_search_region.png",
+    "debug_matches": "output\\default_plan\\page_5\\light_strip\\page_5_light_strip_matches.png",
+    "preprocessed_template_binary": "output\\default_plan\\page_5\\light_strip\\debug_template_binary.png",
+    "preprocessed_template_edges": "output\\default_plan\\page_5\\light_strip\\debug_template_edges.png",
+    "preprocessed_search_binary": "output\\default_plan\\page_5\\debug_search_binary.png",
+    "preprocessed_search_edges": "output\\default_plan\\page_5\\debug_search_edges.png",
+    "grouped_mask": "output\\default_plan\\page_5\\debug_grouped_mask.png",
+    "candidate_proposals_overlay": "output\\default_plan\\page_5\\debug_candidate_proposals.png",
+    "candidate_debug_dir": "output\\default_plan\\page_5\\light_strip\\candidate_debug",
+    "detected_symbol_dir": "output\\default_plan\\page_5\\light_strip\\detected_symbols",
+    "page_symbol_dir": "output\\default_plan\\page_5\\light_strip"
+  },
+  "symbol_template": {
+    "name": "Light Strip",
+    "slug": "light_strip",
+    "template_path": "output\\default_plan\\symbol_library\\light_strip\\template.png",
+    "legend_row_path": "output\\default_plan\\symbol_library\\light_strip\\legend_row.png",
+    "label_crop_path": "output\\default_plan\\symbol_library\\light_strip\\label_crop.png",
+    "source_page_index": 4,
+    "source_legend_bbox_on_page": [
+      4265,
+      0,
+      4971,
+      439
+    ],
+    "manual_symbol_bbox_within_legend": [
+      361,
+      274,
+      417,
+      296
+    ],
+    "label_text": null,
+    "description": null,
+    "enabled": true,
+    "metadata": {}
+  }
+}

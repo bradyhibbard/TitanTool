@@ -1,0 +1,629 @@
+{
+  "page_index": 4,
+  "page_number": 5,
+  "symbol_name": "Light Wall Mount",
+  "symbol_slug": "light_wall_mount",
+  "legend_bbox_px_on_page": [
+    4244,
+    0,
+    4940,
+    432
+  ],
+  "plan_bbox_px_on_page": [
+    1204,
+    678,
+    3611,
+    3137
+  ],
+  "manual_symbol_bbox_within_legend": [
+    379,
+    300,
+    406,
+    324
+  ],
+  "match_count_inside_plan_outside_legend": 2,
+  "proposal_count": 26,
+  "template_size": {
+    "width": 39,
+    "height": 36
+  },
+  "review_summary": {
+    "auto_accepted_count": 2,
+    "auto_rejected_count": 0,
+    "uncertain_count": 18,
+    "user_accepted_count": 0,
+    "user_rejected_count": 18,
+    "review_stopped_early": false
+  },
+  "detected_symbol_images": [
+    "output\\default_plan\\page_5\\light_wall_mount\\detected_symbols\\light_wall_mount_1.png",
+    "output\\default_plan\\page_5\\light_wall_mount\\detected_symbols\\light_wall_mount_2.png"
+  ],
+  "matches": [
+    {
+      "bbox": [
+        1548,
+        1358,
+        1587,
+        1394
+      ],
+      "combined_score": 0.7850247443569913,
+      "binary_score": 0.8107276558876038,
+      "edge_score": 0.7366101741790771,
+      "iou_score": 0.6956521739130435,
+      "density_score": 0.8945868945868946,
+      "contour_score": 1.0,
+      "candidate_density": 0.1103988603988604,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.7300347685813904,
+      "template_rotation": 0,
+      "decision_source": "auto_accept"
+    },
+    {
+      "bbox": [
+        1860,
+        1653,
+        1899,
+        1689
+      ],
+      "combined_score": 0.7418162384240128,
+      "binary_score": 0.7914255261421204,
+      "edge_score": 0.6271041631698608,
+      "iou_score": 0.6707317073170732,
+      "density_score": 0.8917378917378918,
+      "contour_score": 1.0,
+      "candidate_density": 0.1111111111111111,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.6271041631698608,
+      "template_rotation": 0,
+      "decision_source": "auto_accept"
+    }
+  ],
+  "top_scored_candidates_preview": [
+    {
+      "bbox": [
+        1548,
+        1358,
+        1587,
+        1394
+      ],
+      "combined_score": 0.7850247443569913,
+      "binary_score": 0.8107276558876038,
+      "edge_score": 0.7366101741790771,
+      "iou_score": 0.6956521739130435,
+      "density_score": 0.8945868945868946,
+      "contour_score": 1.0,
+      "candidate_density": 0.1103988603988604,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.7300347685813904,
+      "template_rotation": 0,
+      "decision_source": "auto_accept"
+    },
+    {
+      "bbox": [
+        1860,
+        1653,
+        1899,
+        1689
+      ],
+      "combined_score": 0.7418162384240128,
+      "binary_score": 0.7914255261421204,
+      "edge_score": 0.6271041631698608,
+      "iou_score": 0.6707317073170732,
+      "density_score": 0.8917378917378918,
+      "contour_score": 1.0,
+      "candidate_density": 0.1111111111111111,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.6271041631698608,
+      "template_rotation": 0,
+      "decision_source": "auto_accept"
+    },
+    {
+      "bbox": [
+        1547,
+        1357,
+        1588,
+        1395
+      ],
+      "combined_score": 0.7076077036732429,
+      "binary_score": 0.7915664315223694,
+      "edge_score": 0.6393659710884094,
+      "iou_score": 0.5380952380952381,
+      "density_score": 0.7521367521367521,
+      "contour_score": 1.0,
+      "candidate_density": 0.146011396011396,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.6509628295898438,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1890,
+        902,
+        1929,
+        938
+      ],
+      "combined_score": 0.7058954302118274,
+      "binary_score": 0.7370049953460693,
+      "edge_score": 0.6181789636611938,
+      "iou_score": 0.6058823529411764,
+      "density_score": 0.8945868945868946,
+      "contour_score": 1.0,
+      "candidate_density": 0.1103988603988604,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.6181789636611938,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1859,
+        1652,
+        1900,
+        1690
+      ],
+      "combined_score": 0.6941430915343239,
+      "binary_score": 0.7832703590393066,
+      "edge_score": 0.5695619583129883,
+      "iou_score": 0.5728643216080402,
+      "density_score": 0.7806267806267806,
+      "contour_score": 1.0,
+      "candidate_density": 0.1388888888888889,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.5873920321464539,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1325,
+        1329,
+        1364,
+        1365
+      ],
+      "combined_score": 0.6773629408904283,
+      "binary_score": 0.7069299817085266,
+      "edge_score": 0.5802993178367615,
+      "iou_score": 0.5722543352601156,
+      "density_score": 0.8974358974358974,
+      "contour_score": 1.0,
+      "candidate_density": 0.10968660968660969,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5802990794181824,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1549,
+        1359,
+        1586,
+        1393
+      ],
+      "combined_score": 0.672838300816839,
+      "binary_score": 0.7687192559242249,
+      "edge_score": 0.6363615393638611,
+      "iou_score": 0.4642857142857143,
+      "density_score": 0.621082621082621,
+      "contour_score": 1.0,
+      "candidate_density": 0.1787749287749288,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.6759087443351746,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1889,
+        901,
+        1930,
+        939
+      ],
+      "combined_score": 0.6615615851152701,
+      "binary_score": 0.735747218132019,
+      "edge_score": 0.5661439895629883,
+      "iou_score": 0.5164319248826291,
+      "density_score": 0.7521367521367521,
+      "contour_score": 1.0,
+      "candidate_density": 0.146011396011396,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.593180239200592,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2440,
+        902,
+        2479,
+        938
+      ],
+      "combined_score": 0.6536193386588904,
+      "binary_score": 0.6724919080734253,
+      "edge_score": 0.5976048111915588,
+      "iou_score": 0.5255102040816326,
+      "density_score": 0.8205128205128205,
+      "contour_score": 1.0,
+      "candidate_density": 0.12891737891737892,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5976048111915588,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        2165,
+        902,
+        2204,
+        938
+      ],
+      "combined_score": 0.6501075366329621,
+      "binary_score": 0.6824056506156921,
+      "edge_score": 0.5632426738739014,
+      "iou_score": 0.5360824742268041,
+      "density_score": 0.8233618233618234,
+      "contour_score": 1.0,
+      "candidate_density": 0.1282051282051282,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5632426142692566,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1890,
+        901,
+        1929,
+        937
+      ],
+      "combined_score": 0.6475269835315138,
+      "binary_score": 0.6878566145896912,
+      "edge_score": 0.5155258774757385,
+      "iou_score": 0.5511363636363636,
+      "density_score": 0.8945868945868946,
+      "contour_score": 1.0,
+      "candidate_density": 0.1103988603988604,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5155258178710938,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2165,
+        1190,
+        2204,
+        1226
+      ],
+      "combined_score": 0.6459857213700937,
+      "binary_score": 0.6706274151802063,
+      "edge_score": 0.567608654499054,
+      "iou_score": 0.5260416666666666,
+      "density_score": 0.8376068376068375,
+      "contour_score": 1.0,
+      "candidate_density": 0.12464387464387465,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.567608654499054,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1324,
+        1329,
+        1363,
+        1365
+      ],
+      "combined_score": 0.6454499574873529,
+      "binary_score": 0.7041237950325012,
+      "edge_score": 0.47028112411499023,
+      "iou_score": 0.5697674418604651,
+      "density_score": 0.9031339031339032,
+      "contour_score": 1.0,
+      "candidate_density": 0.10826210826210826,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.47028103470802307,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1861,
+        1654,
+        1898,
+        1688
+      ],
+      "combined_score": 0.6432760905389558,
+      "binary_score": 0.742394745349884,
+      "edge_score": 0.5870009660720825,
+      "iou_score": 0.44015444015444016,
+      "density_score": 0.6096866096866097,
+      "contour_score": 1.0,
+      "candidate_density": 0.18162393162393162,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.6402767300605774,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1890,
+        1190,
+        1929,
+        1226
+      ],
+      "combined_score": 0.6430359497671274,
+      "binary_score": 0.6752573847770691,
+      "edge_score": 0.5452070236206055,
+      "iou_score": 0.531578947368421,
+      "density_score": 0.8433048433048433,
+      "contour_score": 1.0,
+      "candidate_density": 0.12321937321937322,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5452069044113159,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        2440,
+        1190,
+        2479,
+        1226
+      ],
+      "combined_score": 0.6423633868138545,
+      "binary_score": 0.6767141222953796,
+      "edge_score": 0.5542248487472534,
+      "iou_score": 0.5276381909547738,
+      "density_score": 0.8062678062678063,
+      "contour_score": 1.0,
+      "candidate_density": 0.13247863247863248,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5542247891426086,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        2507,
+        1417,
+        2546,
+        1453
+      ],
+      "combined_score": 0.6413883888980496,
+      "binary_score": 0.6777749061584473,
+      "edge_score": 0.5519415140151978,
+      "iou_score": 0.527363184079602,
+      "density_score": 0.7977207977207977,
+      "contour_score": 1.0,
+      "candidate_density": 0.1346153846153846,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5496793389320374,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1324,
+        1328,
+        1365,
+        1366
+      ],
+      "combined_score": 0.6388131519939826,
+      "binary_score": 0.7080473899841309,
+      "edge_score": 0.5301592946052551,
+      "iou_score": 0.5,
+      "density_score": 0.7663817663817664,
+      "contour_score": 1.0,
+      "candidate_density": 0.14245014245014245,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.5559993386268616,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2989,
+        902,
+        3028,
+        938
+      ],
+      "combined_score": 0.6352733456671473,
+      "binary_score": 0.6986875534057617,
+      "edge_score": 0.4681347906589508,
+      "iou_score": 0.5561497326203209,
+      "density_score": 0.8433048433048433,
+      "contour_score": 1.0,
+      "candidate_density": 0.12321937321937322,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.46813470125198364,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        2990,
+        902,
+        3029,
+        938
+      ],
+      "combined_score": 0.6341665653630295,
+      "binary_score": 0.6721139550209045,
+      "edge_score": 0.517939031124115,
+      "iou_score": 0.5291005291005291,
+      "density_score": 0.849002849002849,
+      "contour_score": 1.0,
+      "candidate_density": 0.12179487179487179,
+      "template_density": 0.08404558404558404,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.5179389715194702,
+      "template_rotation": 0
+    }
+  ],
+  "parameters": {
+    "render_zoom": 2.0,
+    "manual_template_border_px": 6,
+    "proposal_scales": [
+      0.85,
+      0.95,
+      1.0,
+      1.05,
+      1.15
+    ],
+    "final_scales": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "edge_proposal_threshold": 0.32,
+    "max_edge_proposals_per_scale": 60,
+    "final_accept_score": 0.5,
+    "final_min_binary_score": 0.2,
+    "final_min_edge_score": 0.1,
+    "final_min_iou_score": 0.12,
+    "min_center_distance_factor": 0.45,
+    "nms_overlap_thresh": 0.2,
+    "enable_user_review": true,
+    "auto_accept_score": 0.72,
+    "auto_reject_score": 0.38,
+    "review_iou_floor": 0.08,
+    "max_uncertain_to_review": 20
+  },
+  "files": {
+    "page_image": "output\\default_plan\\page_5\\page_5.png",
+    "legend_crop": "output\\default_plan\\page_5\\electrical_legend_crop.png",
+    "symbol_crop": "output\\default_plan\\symbol_library\\light_wall_mount\\template.png",
+    "search_region_image": "output\\default_plan\\page_5\\page_5_search_region.png",
+    "debug_matches": "output\\default_plan\\page_5\\light_wall_mount\\page_5_light_wall_mount_matches.png",
+    "preprocessed_template_binary": "output\\default_plan\\page_5\\light_wall_mount\\debug_template_binary.png",
+    "preprocessed_template_edges": "output\\default_plan\\page_5\\light_wall_mount\\debug_template_edges.png",
+    "preprocessed_search_binary": "output\\default_plan\\page_5\\debug_search_binary.png",
+    "preprocessed_search_edges": "output\\default_plan\\page_5\\debug_search_edges.png",
+    "grouped_mask": "output\\default_plan\\page_5\\debug_grouped_mask.png",
+    "candidate_proposals_overlay": "output\\default_plan\\page_5\\debug_candidate_proposals.png",
+    "candidate_debug_dir": "output\\default_plan\\page_5\\light_wall_mount\\candidate_debug",
+    "detected_symbol_dir": "output\\default_plan\\page_5\\light_wall_mount\\detected_symbols",
+    "page_symbol_dir": "output\\default_plan\\page_5\\light_wall_mount"
+  },
+  "symbol_template": {
+    "name": "Light Wall Mount",
+    "slug": "light_wall_mount",
+    "template_path": "output\\default_plan\\symbol_library\\light_wall_mount\\template.png",
+    "legend_row_path": "output\\default_plan\\symbol_library\\light_wall_mount\\legend_row.png",
+    "label_crop_path": "output\\default_plan\\symbol_library\\light_wall_mount\\label_crop.png",
+    "source_page_index": 4,
+    "source_legend_bbox_on_page": [
+      4265,
+      0,
+      4971,
+      439
+    ],
+    "manual_symbol_bbox_within_legend": [
+      379,
+      300,
+      406,
+      324
+    ],
+    "label_text": null,
+    "description": null,
+    "enabled": true,
+    "metadata": {
+      "detection_overrides": {
+        "template_rotations": [
+          0
+        ],
+        "edge_proposal_threshold": 0.34,
+        "max_edge_proposals_per_scale": 50
+      }
+    }
+  }
+}

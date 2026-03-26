@@ -1,0 +1,588 @@
+{
+  "page_index": 4,
+  "page_number": 5,
+  "symbol_name": "Switch",
+  "symbol_slug": "switch",
+  "legend_bbox_px_on_page": [
+    4244,
+    0,
+    4940,
+    432
+  ],
+  "plan_bbox_px_on_page": [
+    1204,
+    678,
+    3611,
+    3137
+  ],
+  "manual_symbol_bbox_within_legend": [
+    382,
+    380,
+    404,
+    405
+  ],
+  "match_count_inside_plan_outside_legend": 0,
+  "proposal_count": 189,
+  "template_size": {
+    "width": 37,
+    "height": 37
+  },
+  "review_summary": {
+    "auto_accepted_count": 0,
+    "auto_rejected_count": 0,
+    "uncertain_count": 13,
+    "user_accepted_count": 0,
+    "user_rejected_count": 13,
+    "review_stopped_early": false
+  },
+  "detected_symbol_images": [],
+  "matches": [],
+  "top_scored_candidates_preview": [
+    {
+      "bbox": [
+        1792,
+        1651,
+        1836,
+        1692
+      ],
+      "combined_score": 0.5711292896201337,
+      "binary_score": 0.6828036308288574,
+      "edge_score": 0.49181631207466125,
+      "iou_score": 0.3880597014925373,
+      "density_score": 0.7042925278219396,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1478537360890302,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.2,
+      "proposal_score": 0.45460352301597595,
+      "template_rotation": 270,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1793,
+        1653,
+        1834,
+        1690
+      ],
+      "combined_score": 0.5701288608377729,
+      "binary_score": 0.6934015154838562,
+      "edge_score": 0.49059832096099854,
+      "iou_score": 0.38497652582159625,
+      "density_score": 0.6534181240063592,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.16057233704292528,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.43605273962020874,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1793,
+        1652,
+        1834,
+        1689
+      ],
+      "combined_score": 0.5682808357727654,
+      "binary_score": 0.6744997501373291,
+      "edge_score": 0.5052272081375122,
+      "iou_score": 0.3886255924170616,
+      "density_score": 0.6597774244833068,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1589825119236884,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.4735848605632782,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1792,
+        1652,
+        1836,
+        1693
+      ],
+      "combined_score": 0.5568627625531235,
+      "binary_score": 0.6560672521591187,
+      "edge_score": 0.4869177043437958,
+      "iou_score": 0.37438423645320196,
+      "density_score": 0.7042925278219396,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1478537360890302,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.2,
+      "proposal_score": 0.45489001274108887,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1792,
+        1650,
+        1836,
+        1691
+      ],
+      "combined_score": 0.556305391142213,
+      "binary_score": 0.6623510718345642,
+      "edge_score": 0.4823185205459595,
+      "iou_score": 0.375,
+      "density_score": 0.6820349761526232,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.1534181240063593,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.2,
+      "proposal_score": 0.4432853162288666,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        1793,
+        1654,
+        1834,
+        1691
+      ],
+      "combined_score": 0.5454248861780495,
+      "binary_score": 0.6661326289176941,
+      "edge_score": 0.4525949954986572,
+      "iou_score": 0.37155963302752293,
+      "density_score": 0.6406995230524641,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.16375198728139906,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.4037759602069855,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        3467,
+        849,
+        3494,
+        879
+      ],
+      "combined_score": 0.5336374069775867,
+      "binary_score": 0.5865869522094727,
+      "edge_score": 0.48004668951034546,
+      "iou_score": 0.41721854304635764,
+      "density_score": 0.9109697933227345,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09618441971383147,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.550885021686554,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        3539,
+        849,
+        3566,
+        879
+      ],
+      "combined_score": 0.5336374069775867,
+      "binary_score": 0.5865869522094727,
+      "edge_score": 0.48004668951034546,
+      "iou_score": 0.41721854304635764,
+      "density_score": 0.9109697933227345,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09618441971383147,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.550885021686554,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        2983,
+        1050,
+        3010,
+        1080
+      ],
+      "combined_score": 0.5336374069775867,
+      "binary_score": 0.5865869522094727,
+      "edge_score": 0.48004668951034546,
+      "iou_score": 0.41721854304635764,
+      "density_score": 0.9109697933227345,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09618441971383147,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.550885021686554,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1792,
+        1649,
+        1836,
+        1690
+      ],
+      "combined_score": 0.5305324948791552,
+      "binary_score": 0.615853488445282,
+      "edge_score": 0.4702087342739105,
+      "iou_score": 0.3476190476190476,
+      "density_score": 0.6915739268680445,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.151033386327504,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.2,
+      "proposal_score": 0.43243274092674255,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        2995,
+        1237,
+        3022,
+        1267
+      ],
+      "combined_score": 0.5288708616818714,
+      "binary_score": 0.5808866620063782,
+      "edge_score": 0.47075942158699036,
+      "iou_score": 0.41721854304635764,
+      "density_score": 0.9109697933227345,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09618441971383147,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.533013105392456,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1793,
+        1651,
+        1834,
+        1688
+      ],
+      "combined_score": 0.5283748763968694,
+      "binary_score": 0.613680362701416,
+      "edge_score": 0.466113805770874,
+      "iou_score": 0.3581395348837209,
+      "density_score": 0.6629570747217806,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.15818759936406995,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.1,
+      "proposal_score": 0.4350595772266388,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        2569,
+        925,
+        2599,
+        952
+      ],
+      "combined_score": 0.5227341397633481,
+      "binary_score": 0.5943757891654968,
+      "edge_score": 0.3908335864543915,
+      "iou_score": 0.43846153846153846,
+      "density_score": 0.9968203497615262,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.07472178060413355,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.4049937427043915,
+      "template_rotation": 270,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1874,
+        1587,
+        1901,
+        1617
+      ],
+      "combined_score": 0.5219720984883345,
+      "binary_score": 0.5909262299537659,
+      "edge_score": 0.42075276374816895,
+      "iou_score": 0.42857142857142855,
+      "density_score": 0.9236883942766296,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09300476947535771,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.4696030020713806,
+      "template_rotation": 0,
+      "decision_source": "user_review",
+      "user_review": "rejected"
+    },
+    {
+      "bbox": [
+        1792,
+        1653,
+        1836,
+        1694
+      ],
+      "combined_score": 0.5200832006891069,
+      "binary_score": 0.6050952672958374,
+      "edge_score": 0.4508626163005829,
+      "iou_score": 0.33653846153846156,
+      "density_score": 0.7074721780604134,
+      "contour_score": 0.6666666666666667,
+      "candidate_density": 0.14705882352941177,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 2,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.2,
+      "proposal_score": 0.42283374071121216,
+      "template_rotation": 270
+    },
+    {
+      "bbox": [
+        2995,
+        1236,
+        3022,
+        1266
+      ],
+      "combined_score": 0.5159543897880722,
+      "binary_score": 0.5714775919914246,
+      "edge_score": 0.44221025705337524,
+      "iou_score": 0.4066666666666667,
+      "density_score": 0.9205087440381559,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09379968203497616,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.498369038105011,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1874,
+        1586,
+        1901,
+        1616
+      ],
+      "combined_score": 0.5155533866565382,
+      "binary_score": 0.5910365581512451,
+      "edge_score": 0.4026416540145874,
+      "iou_score": 0.4178082191780822,
+      "density_score": 0.933227344992051,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.09062003179650238,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.451688677072525,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        3467,
+        850,
+        3494,
+        880
+      ],
+      "combined_score": 0.5145563844162048,
+      "binary_score": 0.5833771824836731,
+      "edge_score": 0.42478716373443604,
+      "iou_score": 0.4090909090909091,
+      "density_score": 0.9014308426073132,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.0985691573926868,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.4775642454624176,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2983,
+        1051,
+        3010,
+        1081
+      ],
+      "combined_score": 0.5145563844162048,
+      "binary_score": 0.5833771824836731,
+      "edge_score": 0.42478716373443604,
+      "iou_score": 0.4090909090909091,
+      "density_score": 0.9014308426073132,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.0985691573926868,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.4775642454624176,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        3539,
+        850,
+        3566,
+        880
+      ],
+      "combined_score": 0.5145563844162048,
+      "binary_score": 0.5833771824836731,
+      "edge_score": 0.42478716373443604,
+      "iou_score": 0.4090909090909091,
+      "density_score": 0.9014308426073132,
+      "contour_score": 0.33333333333333337,
+      "candidate_density": 0.0985691573926868,
+      "template_density": 0.0739268680445151,
+      "candidate_contours": 1,
+      "template_contours": 3,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.8,
+      "proposal_score": 0.4775642156600952,
+      "template_rotation": 0
+    }
+  ],
+  "parameters": {
+    "render_zoom": 2.0,
+    "manual_template_border_px": 6,
+    "proposal_scales": [
+      0.85,
+      0.95,
+      1.0,
+      1.05,
+      1.15
+    ],
+    "final_scales": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "edge_proposal_threshold": 0.32,
+    "max_edge_proposals_per_scale": 60,
+    "final_accept_score": 0.5,
+    "final_min_binary_score": 0.2,
+    "final_min_edge_score": 0.1,
+    "final_min_iou_score": 0.12,
+    "min_center_distance_factor": 0.45,
+    "nms_overlap_thresh": 0.2,
+    "enable_user_review": true,
+    "auto_accept_score": 0.72,
+    "auto_reject_score": 0.38,
+    "review_iou_floor": 0.08,
+    "max_uncertain_to_review": 20
+  },
+  "files": {
+    "page_image": "output\\default_plan\\page_5\\page_5.png",
+    "legend_crop": "output\\default_plan\\page_5\\electrical_legend_crop.png",
+    "symbol_crop": "output\\default_plan\\symbol_library\\switch\\template.png",
+    "search_region_image": "output\\default_plan\\page_5\\page_5_search_region.png",
+    "debug_matches": "output\\default_plan\\page_5\\switch\\page_5_switch_matches.png",
+    "preprocessed_template_binary": "output\\default_plan\\page_5\\switch\\debug_template_binary.png",
+    "preprocessed_template_edges": "output\\default_plan\\page_5\\switch\\debug_template_edges.png",
+    "preprocessed_search_binary": "output\\default_plan\\page_5\\debug_search_binary.png",
+    "preprocessed_search_edges": "output\\default_plan\\page_5\\debug_search_edges.png",
+    "grouped_mask": "output\\default_plan\\page_5\\debug_grouped_mask.png",
+    "candidate_proposals_overlay": "output\\default_plan\\page_5\\debug_candidate_proposals.png",
+    "candidate_debug_dir": "output\\default_plan\\page_5\\switch\\candidate_debug",
+    "detected_symbol_dir": "output\\default_plan\\page_5\\switch\\detected_symbols",
+    "page_symbol_dir": "output\\default_plan\\page_5\\switch"
+  },
+  "symbol_template": {
+    "name": "Switch",
+    "slug": "switch",
+    "template_path": "output\\default_plan\\symbol_library\\switch\\template.png",
+    "legend_row_path": "output\\default_plan\\symbol_library\\switch\\legend_row.png",
+    "label_crop_path": "output\\default_plan\\symbol_library\\switch\\label_crop.png",
+    "source_page_index": 4,
+    "source_legend_bbox_on_page": [
+      4265,
+      0,
+      4971,
+      439
+    ],
+    "manual_symbol_bbox_within_legend": [
+      382,
+      380,
+      404,
+      405
+    ],
+    "label_text": null,
+    "description": null,
+    "enabled": true,
+    "metadata": {
+      "detection_overrides": {
+        "template_rotations": [
+          0,
+          90,
+          180,
+          270
+        ],
+        "edge_proposal_threshold": 0.22,
+        "max_edge_proposals_per_scale": 140,
+        "proposal_scales": [
+          0.8,
+          0.9,
+          1.0,
+          1.1,
+          1.2
+        ],
+        "final_scales": [
+          0.85,
+          1.0,
+          1.15
+        ]
+      }
+    }
+  }
+}

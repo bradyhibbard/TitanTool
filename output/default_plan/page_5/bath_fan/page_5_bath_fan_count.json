@@ -1,0 +1,563 @@
+{
+  "page_index": 4,
+  "page_number": 5,
+  "symbol_name": "Bath Fan",
+  "symbol_slug": "bath_fan",
+  "legend_bbox_px_on_page": [
+    4244,
+    0,
+    4940,
+    432
+  ],
+  "plan_bbox_px_on_page": [
+    1204,
+    678,
+    3611,
+    3137
+  ],
+  "manual_symbol_bbox_within_legend": null,
+  "match_count_inside_plan_outside_legend": 1,
+  "proposal_count": 19,
+  "template_size": {
+    "width": 34,
+    "height": 34
+  },
+  "review_summary": {
+    "auto_accepted_count": 1,
+    "auto_rejected_count": 0,
+    "uncertain_count": 0,
+    "user_accepted_count": 0,
+    "user_rejected_count": 0,
+    "review_stopped_early": false
+  },
+  "detected_symbol_images": [
+    "output\\default_plan\\page_5\\bath_fan\\detected_symbols\\bath_fan_1.png"
+  ],
+  "matches": [
+    {
+      "bbox": [
+        1902,
+        1484,
+        1936,
+        1518
+      ],
+      "combined_score": 0.8112422175960854,
+      "binary_score": 0.8383297324180603,
+      "edge_score": 0.7099308967590332,
+      "iou_score": 0.793010752688172,
+      "density_score": 0.9411764705882353,
+      "contour_score": 1.0,
+      "candidate_density": 0.2958477508650519,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.7046464681625366,
+      "template_rotation": 0,
+      "decision_source": "auto_accept"
+    }
+  ],
+  "top_scored_candidates_preview": [
+    {
+      "bbox": [
+        1902,
+        1484,
+        1936,
+        1518
+      ],
+      "combined_score": 0.8112422175960854,
+      "binary_score": 0.8383297324180603,
+      "edge_score": 0.7099308967590332,
+      "iou_score": 0.793010752688172,
+      "density_score": 0.9411764705882353,
+      "contour_score": 1.0,
+      "candidate_density": 0.2958477508650519,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.7046464681625366,
+      "template_rotation": 0,
+      "decision_source": "auto_accept"
+    },
+    {
+      "bbox": [
+        1901,
+        1484,
+        1935,
+        1518
+      ],
+      "combined_score": 0.7826754189740279,
+      "binary_score": 0.9268634915351868,
+      "edge_score": 0.41112926602363586,
+      "iou_score": 0.9002849002849003,
+      "density_score": 0.9411764705882353,
+      "contour_score": 1.0,
+      "candidate_density": 0.2958477508650519,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.4072646498680115,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1901,
+        1483,
+        1937,
+        1519
+      ],
+      "combined_score": 0.7568608674296744,
+      "binary_score": 0.8406204581260681,
+      "edge_score": 0.6072733998298645,
+      "iou_score": 0.7379807692307693,
+      "density_score": 0.7474048442906573,
+      "contour_score": 1.0,
+      "candidate_density": 0.34429065743944637,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.6045845150947571,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1900,
+        1483,
+        1936,
+        1519
+      ],
+      "combined_score": 0.7422357039993142,
+      "binary_score": 0.8955692648887634,
+      "edge_score": 0.4243229031562805,
+      "iou_score": 0.8165829145728644,
+      "density_score": 0.7474048442906573,
+      "contour_score": 1.0,
+      "candidate_density": 0.34429065743944637,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.38900047540664673,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1903,
+        1485,
+        1935,
+        1517
+      ],
+      "combined_score": 0.738397147262565,
+      "binary_score": 0.8340842127799988,
+      "edge_score": 0.6526541709899902,
+      "iou_score": 0.6858974358974359,
+      "density_score": 0.5190311418685121,
+      "contour_score": 1.0,
+      "candidate_density": 0.4013840830449827,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.6698466539382935,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1902,
+        1485,
+        1934,
+        1517
+      ],
+      "combined_score": 0.6871711628894066,
+      "binary_score": 0.869635283946991,
+      "edge_score": 0.40804699063301086,
+      "iou_score": 0.6991341991341992,
+      "density_score": 0.532871972318339,
+      "contour_score": 1.0,
+      "candidate_density": 0.39792387543252594,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.5249777436256409,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1900,
+        1484,
+        1936,
+        1520
+      ],
+      "combined_score": 0.6756080607210413,
+      "binary_score": 0.8302146792411804,
+      "edge_score": 0.3341205418109894,
+      "iou_score": 0.7283653846153846,
+      "density_score": 0.7612456747404843,
+      "contour_score": 1.0,
+      "candidate_density": 0.3408304498269896,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.3255193531513214,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1901,
+        1484,
+        1937,
+        1520
+      ],
+      "combined_score": 0.657142307152212,
+      "binary_score": 0.784737765789032,
+      "edge_score": 0.3728557527065277,
+      "iou_score": 0.6682134570765661,
+      "density_score": 0.7612456747404843,
+      "contour_score": 1.0,
+      "candidate_density": 0.3408304498269896,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.40777695178985596,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1902,
+        1485,
+        1936,
+        1519
+      ],
+      "combined_score": 0.6547233271468402,
+      "binary_score": 0.7323347330093384,
+      "edge_score": 0.37403497099876404,
+      "iou_score": 0.6792929292929293,
+      "density_score": 0.9480968858131487,
+      "contour_score": 1.0,
+      "candidate_density": 0.29411764705882354,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.0,
+      "proposal_score": 0.37029382586479187,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1903,
+        1486,
+        1935,
+        1518
+      ],
+      "combined_score": 0.6509581754865716,
+      "binary_score": 0.7690123319625854,
+      "edge_score": 0.42678070068359375,
+      "iou_score": 0.6802575107296137,
+      "density_score": 0.5397923875432524,
+      "contour_score": 1.0,
+      "candidate_density": 0.3961937716262976,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.3221651315689087,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1902,
+        1486,
+        1934,
+        1518
+      ],
+      "combined_score": 0.6474845551083421,
+      "binary_score": 0.8011299967765808,
+      "edge_score": 0.3729633390903473,
+      "iou_score": 0.6716738197424893,
+      "density_score": 0.5536332179930794,
+      "contour_score": 1.0,
+      "candidate_density": 0.39273356401384085,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.36546435952186584,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1897,
+        1480,
+        1936,
+        1519
+      ],
+      "combined_score": 0.6061468650517974,
+      "binary_score": 0.6561076045036316,
+      "edge_score": 0.38218727707862854,
+      "iou_score": 0.5878220140515222,
+      "density_score": 0.9031141868512109,
+      "contour_score": 1.0,
+      "candidate_density": 0.305363321799308,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.15,
+      "proposal_score": 0.33963239192962646,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1902,
+        1483,
+        1938,
+        1519
+      ],
+      "combined_score": 0.6059741199460114,
+      "binary_score": 0.682533860206604,
+      "edge_score": 0.36383944749832153,
+      "iou_score": 0.6247191011235955,
+      "density_score": 0.7474048442906573,
+      "contour_score": 1.0,
+      "candidate_density": 0.34429065743944637,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.05,
+      "proposal_score": 0.4081904888153076,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1903,
+        1484,
+        1935,
+        1516
+      ],
+      "combined_score": 0.6039421854335039,
+      "binary_score": 0.7393850088119507,
+      "edge_score": 0.32566526532173157,
+      "iou_score": 0.6527196652719666,
+      "density_score": 0.5155709342560553,
+      "contour_score": 1.0,
+      "candidate_density": 0.4022491349480969,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.34999531507492065,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1902,
+        1484,
+        1934,
+        1516
+      ],
+      "combined_score": 0.6029052221366744,
+      "binary_score": 0.7773560285568237,
+      "edge_score": 0.2625407874584198,
+      "iou_score": 0.6582278481012658,
+      "density_score": 0.5294117647058822,
+      "contour_score": 1.0,
+      "candidate_density": 0.39878892733564014,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.95,
+      "proposal_score": 0.32138538360595703,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1901,
+        1480,
+        1940,
+        1519
+      ],
+      "combined_score": 0.5468725121996405,
+      "binary_score": 0.5386016368865967,
+      "edge_score": 0.41737374663352966,
+      "iou_score": 0.49036402569593146,
+      "density_score": 0.8408304498269896,
+      "contour_score": 1.0,
+      "candidate_density": 0.3209342560553633,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.15,
+      "proposal_score": 0.3725150525569916,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1901,
+        1483,
+        1940,
+        1522
+      ],
+      "combined_score": 0.5369291895978592,
+      "binary_score": 0.5461227893829346,
+      "edge_score": 0.352908194065094,
+      "iou_score": 0.5,
+      "density_score": 0.8823529411764706,
+      "contour_score": 1.0,
+      "candidate_density": 0.31055363321799306,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.15,
+      "proposal_score": 0.32099229097366333,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1903,
+        1488,
+        1932,
+        1517
+      ],
+      "combined_score": 0.5226705091456683,
+      "binary_score": 0.5855211019515991,
+      "edge_score": 0.39394667744636536,
+      "iou_score": 0.53584229390681,
+      "density_score": 0.2837370242214532,
+      "contour_score": 1.0,
+      "candidate_density": 0.4602076124567474,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.85,
+      "proposal_score": 0.37759026885032654,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        1901,
+        1484,
+        1940,
+        1523
+      ],
+      "combined_score": 0.5116093445828471,
+      "binary_score": 0.47570356726646423,
+      "edge_score": 0.3667376637458801,
+      "iou_score": 0.46153846153846156,
+      "density_score": 0.9480968858131487,
+      "contour_score": 1.0,
+      "candidate_density": 0.29411764705882354,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 1.15,
+      "proposal_score": 0.3304128348827362,
+      "template_rotation": 0
+    },
+    {
+      "bbox": [
+        2915,
+        1391,
+        2944,
+        1420
+      ],
+      "combined_score": 0.42862398734177726,
+      "binary_score": 0.34510481357574463,
+      "edge_score": 0.3416055738925934,
+      "iou_score": 0.3576158940397351,
+      "density_score": 0.878892733564014,
+      "contour_score": 1.0,
+      "candidate_density": 0.2508650519031142,
+      "template_density": 0.2811418685121107,
+      "candidate_contours": 1,
+      "template_contours": 1,
+      "proposal_source": "edge_match",
+      "proposal_scale": 0.85,
+      "proposal_score": 0.3448304235935211,
+      "template_rotation": 0
+    }
+  ],
+  "parameters": {
+    "render_zoom": 2.0,
+    "manual_template_border_px": 6,
+    "proposal_scales": [
+      0.85,
+      0.95,
+      1.0,
+      1.05,
+      1.15
+    ],
+    "final_scales": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "edge_proposal_threshold": 0.32,
+    "max_edge_proposals_per_scale": 60,
+    "final_accept_score": 0.5,
+    "final_min_binary_score": 0.2,
+    "final_min_edge_score": 0.1,
+    "final_min_iou_score": 0.12,
+    "min_center_distance_factor": 0.45,
+    "nms_overlap_thresh": 0.2,
+    "enable_user_review": true,
+    "auto_accept_score": 0.72,
+    "auto_reject_score": 0.38,
+    "review_iou_floor": 0.08,
+    "max_uncertain_to_review": 20
+  },
+  "files": {
+    "page_image": "output\\default_plan\\page_5\\page_5.png",
+    "legend_crop": "output\\default_plan\\page_5\\electrical_legend_crop.png",
+    "symbol_crop": "output\\default_plan\\symbol_library\\bath_fan\\template.png",
+    "search_region_image": "output\\default_plan\\page_5\\page_5_search_region.png",
+    "debug_matches": "output\\default_plan\\page_5\\bath_fan\\page_5_bath_fan_matches.png",
+    "preprocessed_template_binary": "output\\default_plan\\page_5\\bath_fan\\debug_template_binary.png",
+    "preprocessed_template_edges": "output\\default_plan\\page_5\\bath_fan\\debug_template_edges.png",
+    "preprocessed_search_binary": "output\\default_plan\\page_5\\debug_search_binary.png",
+    "preprocessed_search_edges": "output\\default_plan\\page_5\\debug_search_edges.png",
+    "grouped_mask": "output\\default_plan\\page_5\\debug_grouped_mask.png",
+    "candidate_proposals_overlay": "output\\default_plan\\page_5\\debug_candidate_proposals.png",
+    "candidate_debug_dir": "output\\default_plan\\page_5\\bath_fan\\candidate_debug",
+    "detected_symbol_dir": "output\\default_plan\\page_5\\bath_fan\\detected_symbols",
+    "page_symbol_dir": "output\\default_plan\\page_5\\bath_fan"
+  },
+  "symbol_template": {
+    "name": "Bath Fan",
+    "slug": "bath_fan",
+    "template_path": "output\\default_plan\\symbol_library\\bath_fan\\template.png",
+    "legend_row_path": "output\\default_plan\\symbol_library\\bath_fan\\legend_row.png",
+    "label_crop_path": "output\\default_plan\\symbol_library\\bath_fan\\label_crop.png",
+    "source_page_index": null,
+    "source_legend_bbox_on_page": null,
+    "manual_symbol_bbox_within_legend": null,
+    "label_text": null,
+    "description": null,
+    "enabled": true,
+    "metadata": {}
+  }
+}
