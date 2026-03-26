@@ -1,13 +1,31 @@
-# Ignore secrets
+# Secrets
 key.py
+.env
 
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
 
 # Virtual environments
 venv/
-.env/
+.venv/
+env/
+
+# Database
+*.db
+*.sqlite3
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Build output
+output/
+uploads/
+training_data/
 
 # OS files
 .DS_Store
